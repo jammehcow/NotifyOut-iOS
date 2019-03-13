@@ -7,7 +7,7 @@ An iOS 12 tweak that sends your notifications to other devices
  - [ ] Base tweak classes
  - [ ] Hook into iOS notification service
  - [ ] Translate notifications into JSON (I don't know how they usually look. classes?)
- - [ ] Send over bluetooth
+ - [ ] Send over Bluetooth
  - [ ] Send over Wi-Fi LAN
  - [ ] Send over USB (``libusbmuxd``, thanks Aaronius)
 
@@ -20,5 +20,5 @@ The jailbreak and tweak community for support <3
 
 ## License
 
-See ``LICENSE`` in he project's root
+See ``LICENSE`` in the project's root
 
