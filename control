@@ -1,0 +1,9 @@
+Package: nz.co.jammehcow.notifyout
+Name: NotifyOut
+Depends: mobilesubstrate
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: An iOS 12 tweak that sends your notifications to other devices
+Maintainer: James Upjohn (jammehcow)
+Author: James Upjohn (jammehcow)
+Section: Tweaks
